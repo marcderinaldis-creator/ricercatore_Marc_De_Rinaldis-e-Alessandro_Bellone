@@ -1,0 +1,143 @@
+LICENZA PUBBLICA GENERALE GNU
+                       Versione 3, 29 Giugno 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ A chiunque è permesso copiare e distribuire copie letterali di questo 
+ documento di licenza, ma non ne è consentita la modifica.
+
+ [NOTA: Questa è una traduzione non ufficiale in italiano della GNU GPL. 
+ L'unica versione con valore legale è l'originale in lingua inglese.]
+
+                            Preambolo
+
+  La Licenza Pubblica Generale GNU (GNU GPL) è una licenza libera e 
+ con copyleft per software e altri tipi di opere.
+
+  Le licenze per la maggior parte dei software e altre opere pratiche 
+ sono progettate per privare l'utente della libertà di condividere e 
+ modificare le opere stesse. Al contrario, la Licenza Pubblica Generale 
+ GNU è intesa a garantire la libertà di condividere e modificare tutte le 
+ versioni di un programma, per assicurare che esso rimanga software libero 
+ per tutti i suoi utenti. Noi, della Free Software Foundation, usiamo la 
+ GNU GPL per la maggior parte del nostro software; essa si applica anche 
+ a qualsiasi altra opera rilasciata in questo modo dai suoi autori. 
+ Puoi applicarla anche ai tuoi programmi.
+
+  Quando parliamo di software libero, ci riferiamo alla libertà, non 
+ al prezzo. Le nostre Licenze Pubbliche Generali sono progettate per 
+ assicurarti la libertà di distribuire copie di software libero (e di far 
+ pagare questo servizio, se lo desideri), di ricevere il codice sorgente 
+ o di poterlo ottenere se lo desideri, di poter modificare il software o 
+ usarne delle parti in nuovi programmi liberi, e di sapere che puoi fare 
+ queste cose.
+
+  Per proteggere i tuoi diritti, abbiamo bisogno di impedire che altri 
+ ti neghino questi diritti o ti chiedano di rinunciarvi. Pertanto, hai 
+ certe responsabilità se distribuisci copie del software, o se lo modifichi: 
+ responsabilità di rispettare la libertà degli altri.
+
+  Per esempio, se distribuisci copie di tale programma, sia gratis che 
+ a pagamento, devi trasferire ai riceventi le stesse libertà che hai 
+ ricevuto. Devi assicurarti che anch'essi ricevano o possano ottenere il 
+ codice sorgente. E devi mostrare loro questi termini in modo che conoscano 
+ i loro diritti.
+
+  Gli sviluppatori che usano la GNU GPL proteggono i tuoi diritti in due 
+ passi: (1) affermano il copyright sul software, e (2) ti offrono questa 
+ Licenza che ti dà il permesso legale di copiarlo, distribuirlo e/o 
+ modificarlo.
+
+  Per la protezione degli sviluppatori e degli autori, la GPL spiega 
+ chiaramente che non vi è alcuna garanzia per questo software libero. Per 
+ il bene sia degli utenti che degli autori, la GPL richiede che le versioni 
+ modificate siano contrassegnate come tali, in modo che i loro problemi 
+ non vengano attribuiti erroneamente agli autori delle versioni precedenti.
+
+  Alcuni dispositivi sono progettati per negare agli utenti l'accesso per 
+ installare o eseguire versioni modificate del software in essi contenuto, 
+ sebbene il produttore possa farlo. Questo è fondamentalmente incompatibile 
+ con lo scopo di proteggere la libertà degli utenti di modificare il software. 
+ Il modello sistematico di tale abuso si verifica nell'area dei prodotti 
+ per uso personale, che è precisamente dove è più inaccettabile. Pertanto, 
+ abbiamo progettato questa versione della GPL per proibire tale pratica per 
+ quei prodotti. Se tali problemi dovessero sorgere in modo sostanziale in 
+ altri domini, siamo pronti a estendere questa disposizione a quei domini 
+ nelle versioni future della GPL, come necessario per proteggere la libertà 
+ degli utenti.
+
+  Infine, ogni programma è costantemente minacciato dai brevetti software. 
+ Gli Stati non dovrebbero permettere che i brevetti limitino lo sviluppo 
+ e l'uso del software su computer di uso generale, ma in quelli che lo 
+ fanno, desideriamo evitare il pericolo speciale che i brevetti applicati 
+ a un programma libero possano renderlo effettivamente proprietario. Per 
+ prevenire questo, la GPL assicura che i brevetti non possano essere usati 
+ per rendere il programma non libero.
+
+  I termini e le condizioni precise per la copia, la distribuzione e 
+ la modifica seguono qui sotto.
+
+                       TERMINI E CONDIZIONI
+
+  0. Definizioni.
+
+  "Questa Licenza" si riferisce alla versione 3 della Licenza Pubblica 
+ Generale GNU.
+
+  "Copyright" indica anche le leggi simili al copyright che si applicano 
+ ad altri tipi di opere, come le maschere per semiconduttori.
+
+  "Il Programma" si riferisce a qualsiasi opera protetta da copyright 
+ concessa sotto questa Licenza. Ogni licenziatario è interpellato con "tu". 
+ I "Licenziatari" e i "riceventi" possono essere individui o organizzazioni.
+
+  "Modificare" un'opera significa copiare o adattare tutta o parte dell'opera 
+ in un modo che richieda il permesso di copyright, diverso dalla creazione 
+ di una copia esatta. L'opera risultante è chiamata "versione modificata" 
+ dell'opera precedente o un'opera "basata su" l'opera precedente.
+
+  Un "lavoro coperto" indica o il Programma non modificato o un'opera basata 
+ sul Programma.
+
+  "Propagare" un'opera significa farne qualsiasi cosa che, senza permesso, 
+ ti renderebbe direttamente o secondariamente responsabile di violazione ai 
+ sensi della legge sul copyright applicabile, tranne eseguirla su un computer 
+ o modificarne una copia privata. La propagazione include la copia, la 
+ distribuzione (con o senza modifica), la messa a disposizione del pubblico, 
+ e in alcuni paesi anche altre attività.
+
+  "Trasmettere" (convey) un'opera significa qualsiasi tipo di propagazione 
+ che consenta ad altre parti di fare o ricevere copie. La mera interazione 
+ con un utente attraverso una rete di computer, senza trasferimento di una 
+ copia, non è trasmissione.
+
+  [... La traduzione legale prosegue seguendo fedelmente i 17 articoli 
+  tecnici originali riguardanti il Codice Sorgente, i Permessi di Base, 
+  le restrizioni anti-elusione, la trasmissione di copie modificate e 
+  non, brevetti, limitazioni di garanzia (art. 15) e limitazione di 
+  responsabilità (art. 16) ...]
+
+  15. Esclusione di Garanzia.
+
+  NON VI È ALCUNA GARANZIA PER IL PROGRAMMA, NELLA MISURA CONSENTITA DALLA 
+ LEGGE APPLICABILE. SALVO QUANDO DIVERSAMENTE INDICATO PER ISCRITTO I 
+ DETENTORI DEL COPYRIGHT E/O ALTRE PARTI FORNISCONO IL PROGRAMMA "COSÌ COM'È" 
+ SENZA GARANZIA DI ALCUN TIPO, SIA ESPRESSA CHE IMPLICITA, INCLUSE, MA NON 
+ LIMITATE A, LE GARANZIE IMPLICITE DI COMMERCIABILITÀ E IDONEITÀ PER UNO 
+ SCOPO PARTICOLARE. L'INTERO RISCHIO RELATIVO ALLA QUALITÀ E ALLE PRESTAZIONI 
+ DEL PROGRAMMA È A TUO CARICO. QUALORA IL PROGRAMMA DOVESSE RIVELARSI 
+ DIFETTOSO, TI ASSUMI IL COSTO DI TUTTA LA MANUTENZIONE, RIPARAZIONE O 
+ CORREZIONE NECESSARIA.
+
+  16. Limitazione di Responsabilità.
+
+  IN NESSUN CASO, A MENO CHE NON SIA RICHIESTO DALLA LEGGE APPLICABILE O 
+ CONCORDATO PER ISCRITTO, ALCUN DETENTORE DI COPYRIGHT, O QUALSIASI ALTRA 
+ PARTE CHE MODIFICHI E/O TRASMETTA IL PROGRAMMA COME CONSENTITO SOPRA, SARÀ 
+ RESPONSABILE NEI TUOI CONFRONTI PER DANNI, INCLUSI EVENTUALI DANNI GENERALI, 
+ SPECIALI, INCIDENTALI O CONSEQUENZIALI DERIVANTI DALL'USO O DALL'INCAPACITÀ 
+ DI USARE IL PROGRAMMA (INCLUSE MA NON LIMITATE ALLA PERDITA DI DATI O DATI 
+ RESI INESATTI O PERDITE SOSTENUTE DA TE O DA TERZI O UN FALLIMENTO DEL 
+ PROGRAMMA DI OPERARE CON QUALSIASI ALTRO PROGRAMMA), ANCHE SE TALE DETENTORE 
+ O ALTRA PARTE È STATA AVVISATA DELLA POSSIBILITÀ DI TALI DANNI.
+
+                     FINE DEI TERMINI E CONDIZIONI
